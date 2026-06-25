@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eva3-Foco/static/css/main.ad447d9d.css",
+    "main.js": "/Eva3-Foco/static/js/main.3c6b0824.js",
+    "static/js/453.eb7e7ca3.chunk.js": "/Eva3-Foco/static/js/453.eb7e7ca3.chunk.js",
+    "index.html": "/Eva3-Foco/index.html",
+    "main.ad447d9d.css.map": "/Eva3-Foco/static/css/main.ad447d9d.css.map",
+    "main.3c6b0824.js.map": "/Eva3-Foco/static/js/main.3c6b0824.js.map",
+    "453.eb7e7ca3.chunk.js.map": "/Eva3-Foco/static/js/453.eb7e7ca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad447d9d.css",
+    "static/js/main.3c6b0824.js"
+  ]
+}
