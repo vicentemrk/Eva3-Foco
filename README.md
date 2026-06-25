@@ -32,4 +32,4 @@ npm run build   # Build producción
 
 ## Autor
 
-Desarrollado para Evaluación Sumativa 3.
+Desarrollado para Evaluación Sumativa 3. - Hecho por Vicente Carrillo
